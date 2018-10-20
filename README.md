@@ -51,7 +51,7 @@ AUTORES:
 LINKS:
 ------
 
-Link proyecto:
+Link proyecto web: https://ricarsant.github.io/hurtosViviendas/.
 Link Screenshot: https://image.ibb.co/iOi8ML/Screen-Rj-Santacruz.jpg
 
 
