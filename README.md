@@ -34,7 +34,7 @@ PRERREQUISITOS Y USO:
 ---------------------
 
 •	Habilitar internet browser para ejecutar Javascript.
-•	Ejecutar en FIREFOX.
+•	Ejecutar preferiblemente en FIREFOX.
 •	Conexión internet.
 •	Habilitar https://d3js.org/d3.v5.min.js.
 •	Habilitar https://d3js.org/d3.v4.min.js.
@@ -52,7 +52,7 @@ LINKS:
 ------
 
 Link codigo proyecto:https://github.com/ricarsant/hurtosViviendas
-Link Web:
+Link Web:https://ricarsant.github.io/hurtosViviendas/
 Link Screenshot: https://image.ibb.co/iOi8ML/Screen-Rj-Santacruz.jpg
 
 
@@ -65,4 +65,4 @@ MIT License
 
 Copyright (c) 2018 rsantacruzg
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
